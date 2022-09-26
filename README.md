@@ -1,6 +1,6 @@
 ## KDT AI Course
 
-KDT_AI3 Repo에 오신 것을 환영합니다!
+KDT_AI Repo에 오신 것을 환영합니다!
 
 월별로 Material이 구분되어있습니다.
 ex) 1개월차 : `month1` branch
