@@ -3,9 +3,10 @@
 KDT_AI Repo에 오신 것을 환영합니다!
 
 월별로 Material이 구분되어있습니다.
-ex) 1개월차 : `month1` branch
-
-해당 branch에서 작업 후, PR Rule에 맞게 제출해주세요.
+> ex) 1개월차 : `month1` directory or `month1` branch  
+> directory와 branch는 동일한 내용을 가지고 있습니다.  
+> fork한 repository에서 작업 후, PR Rule에 맞게 main branch로 PR을 보내주세요.  
+  
 
 [필독]
 Github 사용법은 [수강생 전용 노션 페이지>Github 사용법](https://prgrms.notion.site/Github-43f9526efb7645e6ac1c571aa5d7eecf)을 읽어주세요. 
