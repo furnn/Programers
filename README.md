@@ -11,3 +11,7 @@ Github 사용법은 아래 내용과 같으며 LMS 스쿨>3주차>Python 데이�
 > fork한 repository에서 작업 후, PR Rule에 맞게 main branch로 PR을 보내주세요.  
 
 오늘도 화이팅! :)
+
+### 주의사항
+learn-programmers/KDT_AI 레포의 main branch는 수정하지 마세요.  
+main branch에 곧바로 commit과 push를 하는 것은 fork한 본인의 repository에서만 가능합니다.  
