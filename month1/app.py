@@ -15,7 +15,8 @@ def hello_flask():
 # GET /menus | 자료를 가지고 온다.
 @app.route('/menus')
 def get_menus():
-    
+
+
     return jsonify({"menus" : menus})
 
 # POST /menus | 자료를 자원에 추가한다.
@@ -61,6 +62,7 @@ def githubid():
     
 @app.route('/echo', methods=['GET'])
 def echo():
+    
     n=request.args.get("string")
     print(n, type(n))
     return n
