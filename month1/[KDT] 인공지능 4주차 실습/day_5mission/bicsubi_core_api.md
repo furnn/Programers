@@ -13,9 +13,7 @@ def githubid():
     
 @app.route('/echo', methods=['GET'])
 def echo():
-    n=request.args.get("string")
-    print(n, type(n))
-    return n
+    return {"value":request.args.get("string")}
 
 @app.route('/Create', methods=['GET'])
 def create():
