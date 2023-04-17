@@ -26,6 +26,7 @@ def create():
     weapon[name]=int(stock)
     return jsonify(weapon)
 
+
 @app.route('/Read', methods=['GET'])
 def read():
     return jsonify(weapon)
