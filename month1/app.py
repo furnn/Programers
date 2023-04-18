@@ -4,20 +4,6 @@ app=Flask(__name__)
 
 weapon = {}
 
-@app.route('/whoami', methods=['GET'])
-def githubid():
-    name={
-        "name" : "furnn"
-    }
-    return jsonify((name))
-    
-@app.route('/echo', methods=['GET'])
-def echo():
-    n=request.args.get("string")
-    print(n, type(n))
-    return n
-
-
 @app.route('/Create', methods=['GET'])
 def create():
     name=request.args.get("name")
@@ -57,4 +43,20 @@ def delete():
     name=request.args.get("name")
     weapon.pop(name)
     return jsonify(weapon)
+
+@app.route('/whoami', methods=['GET'])
+def githubid():
+    name={
+        "name" : "furnn"
+    }
+    return jsonify((name))
+    
+@app.route('/echo', methods=['GET'])
+def echo():
+    n=request.args.get("string")
+    print(n, type(n))
+    return n
+
+
+
 
