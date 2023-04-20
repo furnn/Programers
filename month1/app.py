@@ -4,6 +4,7 @@ app=Flask(__name__)
 
 weapon = {}
 
+
 @app.route('/whoami', methods=['GET'])
 def githubid():
     name={
@@ -57,3 +58,8 @@ def delete():
     name=request.args.get("name")
     weapon.pop(name)
     return jsonify(weapon)
+
+
+
+
+
