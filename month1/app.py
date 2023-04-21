@@ -18,7 +18,6 @@ def echo():
     print(n, type(n))
     return n
 
-
 @app.route('/Create', methods=['GET'])
 def create():
     name=request.args.get("name")
