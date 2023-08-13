@@ -1,4 +1,4 @@
-## KDT AI Course
+## KDT AI Cours
 
 KDT_AI Repo에 오신 것을 환영합니다!
 
