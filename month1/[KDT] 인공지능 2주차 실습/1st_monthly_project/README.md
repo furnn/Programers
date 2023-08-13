@@ -4,25 +4,25 @@ CPU와 GPU 데이터셋 EDA
 Django기반 반응형 웹
 
 # HOMPAGE
-![image](https://github.com/furnn/Programers_1stMonth_project/assets/114967413/e04e1b3d-a7b4-4d29-94f6-dc8dcde0b302)
+![image](https://github.com/furnn/Programers/assets/114967413/f6755cf1-28c7-4646-af81-f1abbcd9136c)
+
 
 # TYPE
 ### 프로세서 타입에 따른 데이터 시각화
-![image](https://github.com/furnn/Programers_1stMonth_project/assets/114967413/672ec4cb-74a5-4037-8090-e791cddc5058)
+![image](https://github.com/furnn/Programers/assets/114967413/e06d3ca3-daec-4d32-98d9-441231919025)
+![image](https://github.com/furnn/Programers/assets/114967413/8d82aef8-0d32-4bc5-a6b1-a3f1a688f337)
+![image](https://github.com/furnn/Programers/assets/114967413/48fec16e-4d74-40ec-9354-62ba68055379)
 
-![image](https://github.com/furnn/Programers_1stMonth_project/assets/114967413/1c53d6bc-d64b-4b31-9214-e3d8f152cf30)
-
-![image](https://github.com/furnn/Programers_1stMonth_project/assets/114967413/47144b2f-8198-4592-ae19-92804885dd9c)
 
 # VENDOR
 ### 공급 업체에 따른 데이터 시각화
-![image](https://github.com/furnn/Programers_1stMonth_project/assets/114967413/0fc49dc7-8a07-4424-b3a2-b671cdc74515)
+![image](https://github.com/furnn/Programers/assets/114967413/9396927f-d266-4316-9cf6-be783290043a)
+![image](https://github.com/furnn/Programers/assets/114967413/c13bdbdf-9355-40e8-94a7-74872cf7b8d8)
 
-![image](https://github.com/furnn/Programers_1stMonth_project/assets/114967413/644d4673-aa2f-4d7c-b2da-9b4114b20746)
 
 # FOUNDRY
 ### 주조업체에 따른 데이터 시각화
-![image](https://github.com/furnn/Programers_1stMonth_project/assets/114967413/92ae0b68-aba5-41cb-995d-48f2944d5988)
+![image](https://github.com/furnn/Programers/assets/114967413/36e0a59a-435e-4d6d-938a-38d11e1e35d0)
+![image](https://github.com/furnn/Programers/assets/114967413/3c4895bc-650d-49af-a2bf-018608083fbb)
 
-![image](https://github.com/furnn/Programers_1stMonth_project/assets/114967413/47c56e6c-ad3a-4e8d-af85-31a0fe8f233d)
 
