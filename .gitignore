@@ -347,4 +347,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+month4/GAN_project/Face-Mask-Classification-20000-Dataset/
+month4/CNN_adversarial_attack/ILSVRC2012_img_val_subset/
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,jupyternotebooks,visualstudiocode,python,pycharm+all
